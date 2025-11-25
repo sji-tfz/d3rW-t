@@ -1,18 +1,18 @@
 # d3rW-t
 Дермат
 <details>
-  <summary> <h2>Список</h2></summary>
+  <summary> <h2>Импетиго (буллезное, небуллезное)</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Список2</h2></summary>
+  <summary> <h2>Эктима</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Список3</h2></summary>
+  <summary> <h2>Фолликулит</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Список4</h2></summary>
+  <summary> <h2>Фурункул</h2></summary>
   sdfsdfsdfsdf
 </details>
