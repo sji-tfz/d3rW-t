@@ -50,27 +50,27 @@
 </details>
 
 <details>
-  <summary> <h2>Teeeeeee</h2></summary>
+  <summary> <h2>Простой герпес (лабиальный, генитальный)</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Teeeeeee</h2></summary>
+  <summary> <h2>Опоясывающий герпес (Herpes Zoster)</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Teeeeeee</h2></summary>
+  <summary> <h2>Бородавки (вульгарные, плоские, подошвенные, аногенитальные)</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Teeeeeee</h2></summary>
+  <summary> <h2>Остроконечные кондиломы</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Teeeeeee</h2></summary>
+  <summary> <h2>Заболевания, вызванные вирусом папилломы человека (ВПЧ)</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
-  <summary> <h2>Teeeeeee</h2></summary>
+  <summary> <h2>Герпетическая экзема (Капоши)</h2></summary>
   sdfsdfsdfsdf
 </details>
 <details>
