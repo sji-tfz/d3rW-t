@@ -2,7 +2,7 @@
 Дермат
 <details>
   <summary> <h2>Импетиго (буллезное, небуллезное)</h2></summary>
-  sdfsdfsdfsdf
+  sdfsdfsdfsdfиорсрачмтст
 </details>
 <details>
   <summary> <h2>Эктима</h2></summary>
@@ -685,7 +685,7 @@
   <summary> <h2>Teeeeeee</h2></summary>
   sdfsdfsdfsdf
 </details>
-
+<details>
   <summary> <h2>Teeeeeee</h2></summary>
   sdfsdfsdfsdf
 </details>
